@@ -1,0 +1,2 @@
+# Lưu ý
+Web storage
