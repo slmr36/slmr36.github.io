@@ -1,4 +1,4 @@
-var MAY_CHU = 1;
+var MAY_CHU = 2;
 var INFO;
 var BALANCE;
 $('#link-group-facebook').hide();
